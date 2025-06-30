@@ -1,0 +1,15 @@
+# Binary files
+*.exe
+*.log
+
+# Temporary folders
+/tmp/
+
+# Environment files
+.env
+
+# Live reload/dev config
+.air.toml
+
+# VS Code settings
+.vscode/
